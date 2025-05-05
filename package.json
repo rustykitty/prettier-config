@@ -1,0 +1,26 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustykitty/prettier-config.git"
+  },
+  "author": "Rusty Cat",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rustykitty/prettier-config/issues"
+  },
+  "homepage": "https://github.com/rustykitty/prettier-config#readme",
+  "description": "",
+  "devDependencies": {
+    "@bristlefrost/prettier-config": "^1.1.0"
+  }
+}
