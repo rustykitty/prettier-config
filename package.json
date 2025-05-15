@@ -1,6 +1,6 @@
 {
   "name": "@rustykitty/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "private": false,
   "publishConfig": {
@@ -24,6 +24,6 @@
     "@bristlefrost/prettier-config": "^1.1.0"
   },
   "peerDependencies": {
-    "eslint": "^9.21.0"
+    "prettier": "^3.5.3"
   }
 }
