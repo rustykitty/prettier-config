@@ -1,9 +1,16 @@
-import bristlefrostPrettierConfig from "@bristlefrost/prettier-config";
-
 const config = {
-    ...bristlefrostPrettierConfig,
+    printWidth: 120,
+    tabWidth: 4,
     useTabs: false,
-    printWidth: 80,
+    semi: true,
+    singleQuote: false,
+    quoteProps: "as-needed",
+    trailingComma: "all",
+    bracketSpacing: true,
+    bracketSameLine: false,
+    arrowParens: "always",
+    endOfLine: "lf",
+    embeddedLanguageFormatting: "auto",
 };
 
 export default config;
