@@ -1,6 +1,6 @@
 {
   "name": "@rustykitty/prettier-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.mjs",
   "private": false,
   "publishConfig": {
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/rustykitty/prettier-config#readme",
   "description": "",
   "dependencies": {
-    "@bristlefrost/prettier-config": "^1.1.0"
+    "@bristlefrost/prettier-config": "1.1.0"
   },
   "peerDependencies": {
     "prettier": "^3.5.3"
